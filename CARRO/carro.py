@@ -1,5 +1,3 @@
-#vehiculo.py
-
 class Vehiculo:
     def __init__(self, modelo, color, motor, numero_puertas, capacidad_pasajeros, tipo_combustible):
         self.modelo = modelo

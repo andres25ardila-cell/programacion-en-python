@@ -1,4 +1,3 @@
-# carro_deportivo.py
 from vehiculo import Vehiculo
 
 class CarroDeportivo(Vehiculo):

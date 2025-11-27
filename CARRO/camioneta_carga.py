@@ -1,5 +1,3 @@
-#camioneta_carga.py
-
 from vehiculo import Vehiculo
 
 class CamionetaCarga(Vehiculo):
